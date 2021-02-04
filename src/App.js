@@ -1,6 +1,6 @@
-import './App.css';
-import Subtitulo from './components/SubTitle'
-import Footer from './components/Footer'
+import '@styles/App.css';
+import Subtitulo from '@components/SubTitle'
+import Footer from '@components/Footer'
 
 function App() {
   return (
